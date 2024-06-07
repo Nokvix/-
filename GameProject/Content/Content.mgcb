@@ -13,42 +13,6 @@
 
 #---------------------------------- Content ---------------------------------#
 
-#begin C:/Users/Игорь/Downloads/Кнопка выйти на главный экран неактивная.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:C:/Users/Игорь/Downloads/Кнопка выйти на главный экран неактивная.png;Кнопка выйти на главный экран неактивная
-
-#begin C:/Users/Игорь/Downloads/Кнопка выйти на главный экран светящаяся.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:C:/Users/Игорь/Downloads/Кнопка выйти на главный экран светящаяся.png;Кнопка выйти на главный экран светящаяся
-
-#begin C:/Users/Игорь/Downloads/Кнопка выйти на главный экран.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:C:/Users/Игорь/Downloads/Кнопка выйти на главный экран.png;Кнопка выйти на главный экран
-
 #begin File.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor
@@ -368,6 +332,42 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:Кнопка вернуться на главный экран банкрот.png;Кнопка вернуться на главный экран банкрот
+
+#begin Кнопка выйти на главный экран неактивная.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Кнопка выйти на главный экран неактивная.png;Кнопка выйти на главный экран неактивная
+
+#begin Кнопка выйти на главный экран светящаяся.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Кнопка выйти на главный экран светящаяся.png;Кнопка выйти на главный экран светящаяся
+
+#begin Кнопка выйти на главный экран.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Кнопка выйти на главный экран.png;Кнопка выйти на главный экран
 
 #begin Кнопка выход неактивная.png
 /importer:TextureImporter
